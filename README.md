@@ -37,6 +37,8 @@ Contributions are welcome! Please:
 
 For questions or suggestions, please open an issue or contact [sudheer.pulapa.c@gmail.com].
 
+Originally started: January 11, 2018  
+Migrated to GitHub: May 22, 2025
 ---
 
 *Embark on this journey to discover how machines first started understanding human language!*
